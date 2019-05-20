@@ -1,0 +1,20 @@
+nav{margin-top: -25px;
+}
+ul {
+		 
+		position: fixed;
+		background: #e0ebe8;
+		height: 30px;
+		width: 84.5%;
+	}
+	h1 {
+		text-align: center;
+	}
+	li {
+		text-align: right;
+		float:right;
+		padding-right: 100px;
+	}
+	.margUp{
+		padding-top: 50px;
+	}
